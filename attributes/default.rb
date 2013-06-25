@@ -18,7 +18,7 @@ default["horizon"]["services"]["dash_ssl"]["path"] = "/"
 
 default["horizon"]["swift"]["enabled"] = "False"
 
-default["horizon"]["theme"] = "default"
+default["horizon"]["theme"] = "Rackspace"
 
 # The endpoint type to use from the Keystone service catalog
 default["horizon"]["endpoint_type"] = "internalURL"
